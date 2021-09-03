@@ -20,7 +20,7 @@
 <img src="https://img.shields.io/badge/vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white"/></a>
 
 <br/>
-<h3><b>✏️ cowork tools ✏️</b></h3>
+<h3><b>✏️ Cowork Tools ✏️</b></h3>
 </br>
 <img src="https://img.shields.io/badge/eclipse-0B0B61?style=flat-square&logo=Eclipse IDE&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/VSCode-2E9AFE?style=flat-square&logo=Visual Studio Code&logoColor=white"/></a>
